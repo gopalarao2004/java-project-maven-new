@@ -36,7 +36,7 @@
         </div>
     </nav>
 
-    <!-- ------------------ Carousel ------------------ -->
+    <!-- ------------------ Carousels ------------------ -->
     <div class="carousel-container">
         <div class="carousel">
             <!-- <div class="slider">
